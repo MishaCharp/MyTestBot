@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevGameCaptchaNotifier", "RevGameCaptchaNotifier\RevGameCaptchaNotifier.csproj", "{C6B64C3A-8F8B-4A93-AF2C-59166CC02807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B64C3A-8F8B-4A93-AF2C-59166CC02807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B64C3A-8F8B-4A93-AF2C-59166CC02807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B64C3A-8F8B-4A93-AF2C-59166CC02807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B64C3A-8F8B-4A93-AF2C-59166CC02807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12158CD3-CE6B-4F96-BCD3-2621004BED97}
+	EndGlobalSection
+EndGlobal
